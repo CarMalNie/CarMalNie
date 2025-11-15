@@ -1,4 +1,4 @@
-![Traduciendo la Ingeniería de Procesos a Código](URL_DE_TU_BANNER.png)
+![Traduciendo la Ingeniería de Procesos a Código](banner.png)
 
 ### ¡Saludos! Soy Carlos.
 
