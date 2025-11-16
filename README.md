@@ -17,7 +17,7 @@ Mi rol es actuar como el "traductor" entre los requerimientos técnicos de la in
 
 ### Mis Proyectos Destacados
 
-**Proyecto LIMS (ISO 17.025) - (Colaboración actual)**
+**Proyecto: Software de Gestión de Laboratorios (ISO 17.025) - (Colaboración actual)**
 Actúo como el experto técnico, traduciendo los requerimientos de un laboratorio a las especificaciones de software (Python, Django REST, Docker).
 
 **Aplicación Web "Gestor Químico"**
