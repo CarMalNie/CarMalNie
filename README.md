@@ -1,4 +1,4 @@
-![Traduciendo la Ingeniería de Procesos a Código](banner.png)
+![Traduciendo la Ingeniería de Procesos a Código](https://raw.githubusercontent.com/CarMalNie/CarMalNie/main/banner.png)
 
 ### ¡Saludos! Soy Carlos.
 
