@@ -22,7 +22,7 @@ Actúo como el experto técnico, traduciendo los requerimientos de un laboratori
 
 **Aplicación Web "Gestor Químico"**
 App Fullstack (Django/MySQL) para gestionar una base de datos de compuestos químicos, incluyendo un calculador de peso molecular.
-**[Ver Repositorio](https://github.com/CarMalNie/Gestor-Quimico)**
+**[Ver Repositorio](https://github.com/CarMalNie/Gestor_Quimico)**
 
 **Sitio Web Estático - Ciberseguridad**
 Sitio web informativo (HTML/CSS/Bootstrap) enfocado en maquetación web y diseño responsivo.
