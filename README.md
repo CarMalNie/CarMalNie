@@ -2,31 +2,46 @@
 
 ### ¡Saludos! Soy Carlos.
 
-Un híbrido profesional: **Ingeniero Civil Químico** enfocado en la optimización de procesos y **Desarrollador Fullstack (Python/Django)** apasionado por construir las herramientas para lograrlo.
+Un híbrido profesional: **Ingeniero Civil Químico** enfocado en la optimización de procesos y **Desarrollador Fullstack (Python/Django)** con experiencia en **automatización de procesos (RPA/n8n)** y fundamentos de **cloud** consolidados en **AWS re/Start** (Morris & Opazo, AWS Premier Partner).
 Mi rol es actuar como el "traductor" entre los requerimientos técnicos de la ingeniería y el código.
+
+**[🌐 Mi Portafolio](https://carmalnie.github.io)**
 
 ---
 
 ### Mi Stack Tecnológico
 
-**Backend:** Python | Django | Django REST Framework | Django Tenants | Docker | MySQL
+**Backend:** Python | Django | MySQL
+**Automatización & IA:** n8n | RPA | Playwright | LangChain / LangGraph (RAG)
 **Frontend:** HTML | CSS | JavaScript | Bootstrap
 **Ingeniería:** Simulación de Procesos | Aspen Plus | MATLAB
+**Herramientas:** Git/GitHub | AWS re/Start Graduated
 
 ---
 
 ### Mis Proyectos Destacados
 
-**Proyecto: Software de Gestión de Laboratorios (ISO 17.025) - (Colaboración actual)**
-Actúo como el experto técnico, traduciendo los requerimientos de un laboratorio a las especificaciones de software (Python, Django REST, Docker).
+**Chatbot NovaTech — Asistente Virtual de RRHH (Proyecto Final AWS re/Start)**
+Chatbot basado en RAG que responde consultas de RRHH citando las políticas internas por su nombre, con memoria multi-turno, guardrails anti-alucinación y reintentos ante saturación del LLM. Respaldado por 44 tests automatizados.
+**[Ver Repositorio](https://github.com/CarMalNie/chatbot_empresarial_rrhh)** | **[Video Demo](https://youtu.be/sJjohn72Up4)**
 
 **Aplicación Web "Gestor Químico"**
-App Fullstack (Django/MySQL) para gestionar una base de datos de compuestos químicos, incluyendo un calculador de peso molecular.
-**[Ver Repositorio](https://github.com/CarMalNie/Gestor_Quimico)**
+App Fullstack (Django/MySQL) para gestionar una base de datos de compuestos químicos, con un motor que calcula el peso molecular a partir de la fórmula (POO + algoritmos de pila).
+**[Ver Repositorio](https://github.com/CarMalNie/Gestor_Quimico)** | **[Video Demo](https://youtu.be/-5b_5_unwvo)**
 
-**Sitio Web Estático - Ciberseguridad**
+**Sitio Web Estático — Ciberseguridad**
 Sitio web informativo (HTML/CSS/Bootstrap) enfocado en maquetación web y diseño responsivo.
 **[Ver Repositorio](https://github.com/CarMalNie/Proyecto---Ciberseguridad)**
+
+**Colaboración: Software de Gestión de Laboratorios (ISO 17025) — Finalizado**
+Colaboración centrada en el estudio de mercado y la traducción de requerimientos del laboratorio a especificaciones de software; el proyecto no avanzó a fase de desarrollo.
+
+---
+
+### En Curso
+
+- Preparación del examen **AWS Certified Cloud Practitioner (CLF-C02)**.
+- Proyectos personales para demostrar avances en automatización (RPA + n8n).
 
 ---
 
