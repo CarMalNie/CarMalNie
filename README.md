@@ -31,7 +31,7 @@ App Fullstack (Django/MySQL) para gestionar una base de datos de compuestos quí
 
 **Sitio Web Estático — Ciberseguridad**
 Sitio web informativo (HTML/CSS/Bootstrap) enfocado en maquetación web y diseño responsivo.
-**[Ver Repositorio](https://github.com/CarMalNie/Proyecto---Ciberseguridad)**
+**[Ver Repositorio](https://github.com/CarMalNie/Sitio-Estatico-Ciberseguridad)** | **[Ver Sitio](https://carmalnie.github.io/Sitio-Estatico-Ciberseguridad/)**
 
 **Colaboración: Software de Gestión de Laboratorios (ISO 17025) — Finalizado**
 Colaboración centrada en el estudio de mercado y la traducción de requerimientos del laboratorio a especificaciones de software; el proyecto no avanzó a fase de desarrollo.
