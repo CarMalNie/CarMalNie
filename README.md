@@ -2,7 +2,7 @@
 
 # ¡Saludos! Soy Carlos. 👋
 
-Un híbrido profesional: **Ingeniero Civil Químico** enfocado en la optimización de procesos y **Desarrollador Fullstack (Python/Django)** con experiencia en **automatización de procesos (RPA/n8n)** y fundamentos de **cloud** consolidados en **AWS re/Start** (Morris & Opazo, AWS Premier Partner). Mi rol: actuar como el "traductor" entre los requerimientos técnicos de la ingeniería y el código.
+Un híbrido profesional: **Ingeniero Civil Químico** enfocado en la optimización de procesos y **Desarrollador Fullstack (Python/Django)** con experiencia en **automatización de procesos (RPA/n8n)** y en **cloud**, certificado como **AWS Certified Cloud Practitioner (CLF-C02)** sobre la base de **AWS re/Start** (Morris & Opazo, AWS Premier Partner). Mi rol: actuar como el "traductor" entre los requerimientos técnicos de la ingeniería y el código.
 
 Aquí no hay humo: cada habilidad de esta página está respaldada por un proyecto real, con tests y demo cuando corresponde. Aprendo y aplico de forma continua — lo que estudio termina en código.
 
